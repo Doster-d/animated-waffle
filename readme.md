@@ -1,8 +1,8 @@
-Hello world!
+Hello world! Привет!
 
-How are you?
+How are you? да норм
 
-Thank you
+Thank you. тебе спасибо
 
 Russian Roulette:
 
